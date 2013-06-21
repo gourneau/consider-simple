@@ -1,7 +1,7 @@
 consider-simple
 ===============
 
-This a fork on the consider library to get data out of the NeuroSky [ThinkGear Connector](http://developer.neurosky.com/docs/doku.php?id=thinkgear_connector_tgc)
+This a fork on the [consider library](https://github.com/lanius/consider) to get data out of the NeuroSky [ThinkGear Connector](http://developer.neurosky.com/docs/doku.php?id=thinkgear_connector_tgc)
 
 You should use it with Python 2.6 or 2.7. Just run the `record.py` script and it will just write out a dict like this to a file name brain.txt
 
